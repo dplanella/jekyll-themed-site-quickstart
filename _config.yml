@@ -7,7 +7,7 @@ description: Starter template for a Jekyll 4 site - deployed with GH Actions and
 ### Build settings
 
 url: https://dplanella.github.io
-baseurl: /jekyll-gh-actions-quickstart
+baseurl: /jekyll-themed-site-quickstart
 
 # remote_theme: sighingnow/jekyll-gitbook
 theme: just-the-docs
