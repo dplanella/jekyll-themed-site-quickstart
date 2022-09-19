@@ -9,7 +9,8 @@ description: Starter template for a Jekyll 4 site - deployed with GH Actions and
 url: https://dplanella.github.io
 baseurl: /jekyll-gh-actions-quickstart
 
-remote_theme: sighingnow/jekyll-gitbook
+# remote_theme: sighingnow/jekyll-gitbook
+theme: just-the-docs
 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
